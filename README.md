@@ -1,4 +1,4 @@
-            ###About Us
+            About Us
 
             Established in 2021, the Shakoor lab at the Donald Danforth Plant
             Science Center is working hard to create a high-impact research
